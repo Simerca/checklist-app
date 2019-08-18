@@ -1,0 +1,7 @@
+{
+  "name": "Checklist",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
